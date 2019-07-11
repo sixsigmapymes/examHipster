@@ -1,1 +1,1 @@
-Info
+This is the main sources the application examHipster
