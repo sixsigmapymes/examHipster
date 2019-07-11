@@ -8,6 +8,7 @@ Before you can build this project, you must install and configure the following 
 
 1. [Node.js][]: We use Node to run a development web server and build the project.
    Depending on your system, you can install Node either from source or as a pre-packaged bundle.
+   (Copy in directory app/node_modules/ los paquetes Node .Its missing in the project)
 
 After installing Node, you should be able to run the following command to install development tools.
 You will only need to run this command when dependencies change in [package.json](package.json).
@@ -212,3 +213,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [openapi-generator]: https://openapi-generator.tech
 [swagger-editor]: http://editor.swagger.io
 [doing api-first development]: https://www.jhipster.tech/documentation-archive/v6.1.2/doing-api-first-development/
+
